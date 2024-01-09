@@ -4,6 +4,7 @@
 	padding: 0;
 }
 body {
+	margin: 50px;
 	font-family: 'Ubuntu', sans-serif;
 	overflow: hidden;
 	color: black;
